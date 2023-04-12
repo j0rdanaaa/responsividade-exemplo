@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:aquamarine;
+    height: 80px;
+    padding: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.logo{
+    color:rgb(240, 35, 240);
+   
+
+}
+
+a{
+    color:blueviolet;
+    text-decoration: none;
+    
+   
+}
+html{
+    font-size: 62.5%;
+}
+.pai{
+    
+}
+
+
+p{
+   
+}
+
+
+
+
+
