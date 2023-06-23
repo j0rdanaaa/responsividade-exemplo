@@ -12,26 +12,49 @@ header{
 }
 .logo{
     color:rgb(240, 35, 240);
-   
+   font-size: 3rem;
 
 }
 
 a{
     color:blueviolet;
     text-decoration: none;
+    font-size: 2rem;
     
    
 }
 html{
     font-size: 62.5%;
 }
+#sobre{
+    background-color: magenta;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+#conteudo{
+    background-color: coral;
+height: 100vh;
+}
+#contato{
+    background-color: blue;
+    height: 100vh;
+
+}
 .pai{
+    background-color: bisque;
+    width: 80vw;
+    min-height: 50vh;
     
 }
 
 
 p{
-   
+   font-size: 2rem;
+
 }
 
 
